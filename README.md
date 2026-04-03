@@ -1,3 +1,6 @@
+# Deployment Link :- 
+https://price-tracker-api-4gjp.onrender.com/prices
+
 # 📊 Price Tracking Pipeline (B2B Data Engineering Project)
 
 An end-to-end automated data pipeline designed to collect, transform, and deliver job market data for business use cases such as recruitment analytics, hiring trends, and talent intelligence.
